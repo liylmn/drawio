@@ -13,7 +13,7 @@
         <mxCell id="6U3oOu9trGSd3NTjcaqu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6U3oOu9trGSd3NTjcaqu-6" target="6U3oOu9trGSd3NTjcaqu-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6U3oOu9trGSd3NTjcaqu-6" value="显示活动弹窗" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6U3oOu9trGSd3NTjcaqu-6" value="显示活动弹窗（自动显示三次，账号关联）" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6U3oOu9trGSd3NTjcaqu-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6U3oOu9trGSd3NTjcaqu-10" target="6U3oOu9trGSd3NTjcaqu-12">
